@@ -47,7 +47,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 		rel="stylesheet" />
 	<link media="print" href="depresi/wp-content/cache/autoptimize/css/autoptimize_5653ccbbff2bf3fde17022871919df8b.css"
 		rel="stylesheet" />
-	<title>Diagnosa Tingkat Depresi</title>
+	<title>Diagnosa Penyakit </title>
 	<meta name="description"
 		content="Take our depression test if you are feeling overwhelming sadness—it&#039;s free, quick, confidential, and scientifically validated." />
 	<link rel="canonical" href="index.html" />
@@ -1643,14 +1643,14 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 							<ul id="footer-menu" class="menu">
 								<li
 									class="heading left-col menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-406">
-									<a href="#">Diagnosa Tingkat Depresi</a>
+									<a href="#">Diagnosa Tingkat Penyakit</a>
 									<ul class="sub-menu">
 										<li
 											class="wide bold menu-item menu-item-type-post_type menu-item-object-page menu-item-16362">
 											<a href="#">Gejala</a></li>
 										<li
 											class="wide bold menu-item menu-item-type-post_type menu-item-object-page menu-item-3054">
-											<a href="#">Depresi</a></li>
+											<a href="#">Penyakit</a></li>
 										
 									</ul>
 								</li>
@@ -1658,8 +1658,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 									class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-405">
 									<a href="/">Home</a>
 								</li>
-								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a
-										href="#">About</a></li>
+								
 								
 							</ul>
 						</div>

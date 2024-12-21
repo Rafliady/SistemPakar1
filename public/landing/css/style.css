@@ -377,7 +377,7 @@ body.royal_preloader {
 	width: 94px;
 	height: 24px;
 	top: 28px;
-	background:url('../img/logo-light.png') no-repeat center center;
+	background:url('../img/Ega-kontol.png') no-repeat center center;
 	background-size: 94px 24px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
@@ -427,7 +427,7 @@ body.royal_preloader {
 	height:54px;
 	z-index:10000;
 	top:54px;
-	background:url('../img/logo-dark.png') no-repeat center center;
+	background:url('../img/Kontol-sapi.png') no-repeat center center;
 	background-size: 210px 54px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
@@ -514,7 +514,7 @@ body.royal_preloader {
 	font-size: 15px;
 	line-height:20px;
 	letter-spacing:1px;
-	color:#212121;
+	color:#f1f1f1;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;

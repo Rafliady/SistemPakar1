@@ -10,7 +10,7 @@
     <!-- Basic Page Needs
  ================================================== -->
     <meta charset="utf-8">
-    <title>Diagnosa Depresi</title>
+    <title>Diagnosa Penyakit</title>
     <meta name="description" content="Professional Creative Template" />
     <meta name="author" content="IG Design">
     <meta name="keywords"
@@ -91,18 +91,14 @@
                     <ul>
                         <li><a href="/form-faq">Diagnosa</a></li>
                         <li><a href="/gejala">Gejala</a></li>
-                        <li><a href="/depresi">Depresi</a></li>
+                        <li><a href="/depresi">Penyakit</a></li>
                     </ul>
                 </li>
-                <li>
-                    <a class="shadow-hover" href="/artikel">Artikel</a>
-                </li>
+                
                 <li>
                     <a class="shadow-hover" href="#faq">FAQ</a>
                 </li>
-                <li>
-                    <a class="shadow-hover" href="#kontak">Kontak</a>
-                </li>
+                
 
                 @guest()
                 <li>
@@ -121,7 +117,7 @@
         <!-- Hero Section -->
 
         <div class="section full-height mob-height">
-            <div class="background-parallax" style="background-image: url('landing/img/full-2.jpg')"
+            <div class="background-parallax" style="background-image: url('landing/img/Full-sapi.png')"
                 data-enllax-ratio=".5" data-enllax-type="background" data-enllax-direction="vertical"></div>
             <div class="hero-center-text-wrap">
                 <div class="container text-left">
@@ -129,8 +125,8 @@
                         <div class="col-md-12">
                             <br>
                             <br>
-                            <h1 class="parallax-fade-top-2 typed">Cek Tingkat <strong>Depresimu</strong>
-                                Sekarang!<br><span id="typed-1"></span></h1>
+                            <h1 class="parallax-fade-top-2 typed">Cek Tingkat <strong>Penyakit</strong>
+                                Hewan Ternak anda!<br><span id="typed-1"></span></h1>
                             <br>
                             <style>
                                 .btn-glow:hover {
@@ -162,7 +158,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 page-center-text-wrap text-center">
-                        <h1 class="parallax"><strong>-</strong> Project akhir semester mata kuliah
+                        <h1 class="parallax"><strong>-</strong> Project Tugas Mata Kulias Sistem Pakar semsester 7
                             <strong>-</strong><br><span>sistem pakar</span></h1>
                     </div>
                 </div>
@@ -188,15 +184,15 @@
                             </div>
                             <div class="item">
                                 <div class="quote">
-                                    <p class="lead">"Ingatlah bahwa DepresiCheck bukanlah pengganti layanan
+                                    <p class="lead">"Ingatlah bahwa Diagnosa Penyakit Sapi bukanlah pengganti layanan
                                         profesional, jadi pastikan untuk selalu mencari bantuan medis yang tepat jika
-                                        Anda mengalami gejala depresi."</p>
+                                        Anda mengalami gejala Penyakit Sapi Anda."</p>
                                     <h6>&rarr;</h6>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="quote">
-                                    <p class="lead">"Kami membuat DepresiCheck sebagai proyek akhir untuk membantu
+                                    <p class="lead">"Kami membuat diagnosa Penyakit Sapi sebagai proyek akhir untuk membantu
                                         teman-teman kami yang mungkin mengalami depresi untuk mengetahui tingkat depresi
                                         mereka dan menemukan solusi sesuai."</p>
                                     <h6>&rarr;</h6>
@@ -212,7 +208,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-5 text-center mb-5">
-                        <h4>Kelompok X</h4>
+                        <h4>Kelompok Sapi</h4>
                         <p class="lead">Sistem Pakar</p>
                     </div>
                 </div>
@@ -221,63 +217,34 @@
                 <div class="row">
                     <div class="col text-center">
                         <div class="team-wrap">
-                            <img src="landing/img/team2.jpg" alt="">
+                            <img src="landing/img/Rafli.jpeg" alt="">
                             <p>Ketua</p>
-                            <h6>Alfi Atqia Rinjani</h6>
-                            <div class="social-team">
-                                <ul class="list-social-team">
-                                    <li class="icon-team tipped" data-title="<span>github</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf09b;</a>
-                                    </li>
-                                    <li class="icon-team tipped" data-title="<span>pinterest</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf231;</a>
-                                    </li>
-                                </ul>
-                            </div>
+                            <h6>Rafliady Izza Anggoro</h6>
+                            
                         </div>
                     </div>
                     <div class="col mt-4 m-xl-0 text-center">
                         <div class="team-wrap">
-                            <img src="landing/img/team4.jpg" alt="">
+                            <img src="landing/img/Ega.jpeg" alt="">
                             <p>Web Development</p>
-                            <h6>Andrian</h6>
-                            <div class="social-team">
-                                <ul class="list-social-team">
-                                    <li class="icon-team tipped" data-title="<span>twitter</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf099;</a>
-                                    </li>
-                                    <li class="icon-team tipped" data-title="<span>facebook</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf09a;</a>
-                                    </li>
-                                </ul>
-                            </div>
+                            <h6>Ega Restu M Risqi</h6>
+                           
                         </div>
                     </div>
                     <div class="col mt-4 m-md-0 text-center">
                         <div class="team-wrap">
-                            <img src="landing/img/team3.jpg" alt="">
+                            <img src="landing/img/Sigit.jpeg" alt="">
                             <p>Design process</p>
-                            <h6>Canggih Wahyu Rinaldi</h6>
-                            <div class="social-team">
-                                <ul class="list-social-team">
-                                    <li class="icon-team tipped" data-title="<span>github</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf09b;</a>
-                                    </li>
-                                    <li class="icon-team tipped" data-title="<span>pinterest</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf231;</a>
-                                    </li>
-                                    <li class="icon-team tipped" data-title="<span>facebook</span>"
-                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
-                                        <a href="#">&#xf09a;</a>
-                                    </li>
-                                </ul>
-                            </div>
+                            <h6>Sigit Adhi Suroyo</h6>
+                           
+                        </div>
+                    </div>
+                    <div class="col mt-4 m-xl-0 text-center">
+                        <div class="team-wrap">
+                            <img src="landing/img/Arya1.jpeg" alt="">
+                            <p>Presentator</p>
+                            <h6>Arya Ramadhi Dawud</h6>
+                           
                         </div>
                     </div>
 
@@ -383,72 +350,7 @@
 
 
 
-        <div class="section footer padding-top-big background-image-cover"
-            style="background-image: url(img/footer.jpg);">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <img src="landing/img/logo-light.png" alt="logo image" />
-                    </div>
-                    <div class="col-md-12 my-4">
-                        <ul class="footer-social">
-                            <li>
-                                <a href="#">Tw</a>
-                            </li>
-                            <li>
-                                <a href="#">Fb</a>
-                            </li>
-                            <li>
-                                <a href="#">G+</a>
-                            </li>
-                            <li>
-                                <a href="#">Vm</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-12 mt-5">
-                        <div class="footer-line"></div>
-                    </div>
-                    <div class="col-md-12 rights my-3">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-
-        <div class="section footer padding-top-big background-image-cover"
-            style="background-image: url(landing/img/footer.jpg);">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <img src="landing/img/logo-light.png" alt="logo image" />
-                    </div>
-                    <div class="col-md-12 my-4">
-                        <ul class="footer-social">
-                            <li>
-                                <a href="#">Tw</a>
-                            </li>
-                            <li>
-                                <a href="#">Fb</a>
-                            </li>
-                            <li>
-                                <a href="#">G+</a>
-                            </li>
-                            <li>
-                                <a href="#">Vm</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-12 mt-5">
-                        <div class="footer-line"></div>
-                    </div>
-                    <div class="col-md-12 rights my-3">
-                    </div>
-                </div>
-            </div>
-        </div>
+      
 
     </main>
 

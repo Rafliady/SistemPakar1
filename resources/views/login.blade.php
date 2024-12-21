@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <style>
     body {
-      background-image: url('landing/img/full-1.jpg');
+      background-image: url('landing/img/Full-sapi.png');
       background-size: cover;
       background-position: center;
       font-family: 'Lato', sans-serif;
@@ -62,7 +62,7 @@ background-color: #2980b9;
 
   <div class="login-card animate__animated animate__fadeInDown">
     <div style="text-align: center;">
-      <img src="landing/img/logo-dark.png" alt="Logo">
+      <img src="landing/img/Kontol-sapi.png" alt="Logo">
     </div>
     <br>
     <br>

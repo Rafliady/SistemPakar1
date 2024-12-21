@@ -12,7 +12,7 @@
                   <tr>
                     <th scope="col">#</th>
                     <th scope="col">Diagnosa ID</th>
-                    <th scope="col">Tingkat Depresi</th>
+                    <th scope="col">Tingkat Penyakit</th>
                     <th scope="col">Persentase</th>
                   </tr>
                 </thead>
@@ -111,7 +111,7 @@
                       <h5 class="card-title">
                         {{ $diagnosa_dipilih["kode_depresi"]->kode_depresi }} | {{ $diagnosa_dipilih["kode_depresi"]->depresi }}
                         </h5>
-                      <p class="card-text">Jadi dapat disimpulkan bahwa pasien mengalami tingkat depresi yaitu Depresi Ringan dengan tingkat kepastian yaitu <span class="fw-semibold fs-4">{{ round(($hasil["value"] * 100), 2) }}</span> %</p>
+                      <p class="card-text">Jadi dapat disimpulkan bahwa hewan ternak sapi mengalami penyakit dengan tingkat kepastian yaitu <span class="fw-semibold fs-4">{{ round(($hasil["value"] * 100), 2) }}</span> %</p>
                       {{-- <a href="#" class="btn btn-primary">Go somewhere</a> --}}
                     </div>
                   </div>
